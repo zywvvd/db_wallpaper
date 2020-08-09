@@ -1,2 +1,4 @@
 # db_wallpaper
-DubaJinshan wallpaper synchronize directory
+- 保存VVD喜欢的壁纸
+
+> 主要来源为金山毒霸壁纸
